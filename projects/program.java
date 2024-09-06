@@ -45,7 +45,7 @@ public class program {
 
   public static void main(String[] args) {
 
-    int k = 2;
+    int k = 3;
     generateAndPrintPolynominal(k);
   }
 }
